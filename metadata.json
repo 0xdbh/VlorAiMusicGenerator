@@ -1,0 +1,5 @@
+{
+  "name": "VlorAi",
+  "description": "An application that generates and plays music in real-time based on a user's text prompt, using the Gemini Live API for continuous audio streaming.",
+  "requestFramePermissions": []
+}
